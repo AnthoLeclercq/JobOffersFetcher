@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/anthony_leclercq/Documents/hellowork/JobOffersFetcher/JobOffersFetcher/JobOffersFetcher.csproj": {}
+    "/Users/anthony_leclercq/Documents/hellowork/JobOffersFetcherGit/JobOffersFetcher/JobOffersFetcher.csproj": {}
   },
   "projects": {
-    "/Users/anthony_leclercq/Documents/hellowork/JobOffersFetcher/JobOffersFetcher/JobOffersFetcher.csproj": {
+    "/Users/anthony_leclercq/Documents/hellowork/JobOffersFetcherGit/JobOffersFetcher/JobOffersFetcher.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/anthony_leclercq/Documents/hellowork/JobOffersFetcher/JobOffersFetcher/JobOffersFetcher.csproj",
+        "projectUniqueName": "/Users/anthony_leclercq/Documents/hellowork/JobOffersFetcherGit/JobOffersFetcher/JobOffersFetcher.csproj",
         "projectName": "JobOffersFetcher",
-        "projectPath": "/Users/anthony_leclercq/Documents/hellowork/JobOffersFetcher/JobOffersFetcher/JobOffersFetcher.csproj",
+        "projectPath": "/Users/anthony_leclercq/Documents/hellowork/JobOffersFetcherGit/JobOffersFetcher/JobOffersFetcher.csproj",
         "packagesPath": "/Users/anthony_leclercq/.nuget/packages/",
-        "outputPath": "/Users/anthony_leclercq/Documents/hellowork/JobOffersFetcher/JobOffersFetcher/obj/",
+        "outputPath": "/Users/anthony_leclercq/Documents/hellowork/JobOffersFetcherGit/JobOffersFetcher/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/anthony_leclercq/.nuget/NuGet/NuGet.Config"

@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = JobOffersFetcher
-build_property.ProjectDir = /Users/anthony_leclercq/Documents/hellowork/JobOffersFetcher/JobOffersFetcher/
+build_property.ProjectDir = /Users/anthony_leclercq/Documents/hellowork/JobOffersFetcherGit/JobOffersFetcher/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -25,3 +25,47 @@ Ce projet permet de récupérer des offres d'emploi depuis l'API France Travail,
 - Ajouter le Bearer Token dans le fichier appsettings.json
 - ./run.sh
 - ./run.sh test
+
+## Temps passé sur le projet
+
+- 4h15
+
+---
+
+## TO DO 
+
+### Architecture & Structure
+
+- Créer des interfaces comme IJobFetcher, IReportGenerator, injectées pour favoriser les tests et l’extensibilité.
+
+### Qualité & Maintenance
+
+- Plus de tests de manière générale
+- Plus de vérification des données d'API
+- Logs plutôt que du Console.WriteLine
+
+### Fonctionnalités techniques
+
+- Pagination automatique -> range=0-9
+- Params dynamique (liste des villes, Bearer Token, ...) / Configuration
+- Export du rapport (.CSV, .HTML, ...)
+- Rajout de data
+
+### Experience Utilisateur
+
+- Interface 
+- Logging Level (Silencieux, verbeux)
+
+### Déploiement et automatisation
+
+- Docker
+- Pipeline CI/CD
+
+### Robustesse
+
+- Retry avec un ptit delai
+
+### Sécurité
+
+- Azure Kay Vault
+- AWS Secrets Manager
