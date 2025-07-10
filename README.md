@@ -67,5 +67,5 @@ Ce projet permet de récupérer des offres d'emploi depuis l'API France Travail,
 
 ### Sécurité
 
-- Azure Kay Vault
+- Azure Key Vault
 - AWS Secrets Manager
